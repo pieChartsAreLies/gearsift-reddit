@@ -1,4 +1,4 @@
 .env
-output/
+output/fixtures/
 __pycache__/
 *.pyc
